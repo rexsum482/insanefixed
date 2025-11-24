@@ -1,8 +1,9 @@
-# InstaInsane v1.0
-## Author: https://github.com/umeshshinde19
-## IG: instagram.com/cyberspidy19
-### Don't copy this code without give me the credits, nerd! 
+# InstaInsane Fixed v1.0
+## Author: https://github.com/rexsum482
+## IG: instagram.com/rexsum420
+## Credit to: https://github.com/umeshshinde19
 Instainsane is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
+Fixed handling errors smoothly so that program doesn't exit on an error/bad api call. Created a password generator that creates passwords that fit modern requirements of minimum 8 characters, 1 uppercase, 1 lowercase, 1 symbol. Edit however you like.
 
 ## Legal disclaimer:
 Usage of InstaInsane for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
@@ -19,8 +20,8 @@ Usage of InstaInsane for attacking targets without prior mutual consent is illeg
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instainsane
-cd instainsane
+git clone https://github.com/rexsum482/insanefixed.git
+cd insanefixed
 chmod +x instainsane.sh
 sudo ./instainsane.sh
 ```
